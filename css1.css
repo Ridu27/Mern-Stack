@@ -1,0 +1,13 @@
+.todo_page{
+    background-image: url("https://ik.imagekit.io/u1h8uwfjh/todolistbg.png_updatedAt=1700761069523");
+    background-repeat: no-repeat;
+    width: 350px;;
+    height: 600px;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: white;
+    font-style: normal;
+   
+}
